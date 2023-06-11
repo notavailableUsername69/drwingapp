@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  canvas {
+    display: block;
+    margin: 20px auto;
+    border: 1px solid #000;
+  }
+  
+  #controls {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  #controls button, #controls input {
+    margin: 5px;
+  }
